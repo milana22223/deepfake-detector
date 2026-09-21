@@ -1,0 +1,14 @@
+*.pth
+*.pt
+*.zip
+*.tar
+*.gz
+
+data/
+dataset/
+datasets/
+
+__pycache__/
+.ipynb_checkpoints/
+
+.DS_Store
